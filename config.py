@@ -6,9 +6,9 @@ from pyrogram.types import BotCommand
 load_dotenv()
 
 # Bot Configuration
-BOT_TOKEN = os.getenv("BOT_TOKEN")
-API_ID = int(os.getenv("API_ID"))
-API_HASH = os.getenv("API_HASH")
+BOT_TOKEN = ("1701354729:AAEPJFQ9Uw3p__1bwReWjBw9dt9u6c36uvc")
+API_ID = int(("5310709"))
+API_HASH = ("63a546bdaf18e2cbba99f87b4274fa05")
 
 # File Upload Configuration
 MAX_FILE_SIZE = 1024 * 1024 * 1024  # 1GB
