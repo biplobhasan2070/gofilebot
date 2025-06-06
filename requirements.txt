@@ -1,0 +1,15 @@
+pyrogram==2.0.106
+tgcrypto==1.2.5
+requests==2.31.0
+python-dotenv==1.0.0
+typing-extensions==4.7.1
+Pillow==10.0.0
+ffmpeg-python==0.2.0
+python-magic==0.4.27
+aiohttp==3.8.5
+asyncio==3.4.3
+pytz==2023.3
+python-dateutil==2.8.2
+watchdog==3.0.0
+cryptography==41.0.3
+python-magic-bin==0.4.14; platform_system == "Windows"
